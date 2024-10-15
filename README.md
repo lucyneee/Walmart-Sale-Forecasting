@@ -1,5 +1,6 @@
 # Walmart-Sale-Forecasting
-This project is designed to develop a model that predicts weekly sales for Walmart stores throughout the United States.
+
+![Walmart-Sale-Forecasting](assets/img/18FA5A52-0F6F-D24B-EC345D734677D39A_W1600_H724.jpg)
 
 ## Description:
 This project focuses on building a model to forecast the weekly sales for Walmart stores across the United States. The project includes data preprocessing, feature engineering, model training, and evaluation to deliver accurate predictions.
